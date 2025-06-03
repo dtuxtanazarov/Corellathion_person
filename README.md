@@ -1,1 +1,1 @@
-# Corellathion_person
+Ushbu dasturda Person korellatsiya dasturi keltirilgan.
