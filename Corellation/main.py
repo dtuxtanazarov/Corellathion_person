@@ -22,8 +22,8 @@ def pearson_correlation(x, y):
 
 
 # Misol:
-x = [10, 20, 30, 40, 50]
-y = [15, 25, 35, 45, 60]
+x = [10, 20, 30, 40, 50, 70, 80, 90, 110]
+y = [15, 25, 35, 45, 60, 80, 87, 98, 125]
 
 r = pearson_correlation(x, y)
 print(f"Pearson korrelyatsiyasi: {r:.4f}")
